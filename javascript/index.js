@@ -1,0 +1,2 @@
+var h=/iPhone|iPad|iPod|Android/i.test(ga.ta);if(h){l("mobile.html")}else{}var c=console;var _this=this;var gt="sample";
+const a={apply:function(arugments){c.error(arugments)},show:function(arugment){c.warn(arugment)}};a.apply(gt);a.show(b)
